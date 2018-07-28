@@ -3,4 +3,5 @@ In this projected i decided to create two sets of sobel kernels: I created one s
 
 
 ![Screenshot](mri2.jpg)
-![Screenshot](mri.jpg)
+![Screenshot](biogrey.png)
+![Screenshot](bioedge.png)
